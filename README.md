@@ -1,2 +1,25 @@
 # Data-Visualisation
-This Jupyter Notebook contains a data cleaning process for a customer dataset, ensuring consistency and accuracy for further analysis. The dataset includes customer details such as names, phone numbers, 
+This Jupyter Notebook explores customer data through various visualizations using Matplotlib and pandas and numpy. The goal is to visualise key trends and patterns using various graphs and plots.
+
+Visualizations Included
+
+✅ Bar Charts 
+
+✅ Area plots 
+
+✅ Scatter Plots 
+
+✅ Box Plots 
+
+✅ Line graphs
+
+
+🛠️ Tools & Libraries Used
+
+Python 🐍
+
+Pandas 📊
+
+Matplotlib 🎨
+
+Numpy 🔥
